@@ -1,0 +1,3 @@
+H:\KHAI\C++\Folder1\OvcharenkoLab11\OvcharenkoLab11\OvcharenkoLab11\Debug\OvcharenkoLab11.vcxproj.AssemblyReference.cache
+H:\KHAI\C++\Folder1\OvcharenkoLab11\OvcharenkoLab11\OvcharenkoLab11\Debug\OvcharenkoLab11.MyForm.resources
+H:\KHAI\C++\Folder1\OvcharenkoLab11\OvcharenkoLab11\OvcharenkoLab11\Debug\OvcharenkoLab11.vcxproj.GenerateResource.cache
